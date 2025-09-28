@@ -3,6 +3,7 @@
 
 A real-time computer vision system using YOLO for object detection with danger zone alerts, sound notifications, and automated Telegram & Email warnings.
 
+Video demo: https://www.youtube.com/watch?v=orFa52maBXw&t=2s
 ---
 
 ## Introduction
